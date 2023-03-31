@@ -1,0 +1,4 @@
+Cloudera, which can be found at https://www.cloudera.com is a commercial database product which information technology companies primarily use. 
+The data model uses Apache HBase and the java-based filing system primarily for large sources of data storage: Hadoop Distributed File System (HDFS).
+Its hosting model is a client-server model that acts as a distributed system. Python accesses Cloudera through the "Pydoop" package and utilises a 
+JDBC driver enabling java applications to connect. 
